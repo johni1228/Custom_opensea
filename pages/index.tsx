@@ -6,11 +6,10 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-   <div className='text-center text-yellow-600'>
+   <div className=''>
      <Head>
        <title>Custome opensea</title>
      </Head>
-     Welcome to Next.js
      <Layout>
        <section>
          Welcome to Layout
